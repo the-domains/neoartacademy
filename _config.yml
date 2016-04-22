@@ -1,0 +1,28 @@
+name: NeoArtAcademy
+favicon: null
+layout_spectrum: 0.672874522395432
+typography_spectrum: 0.9181010311003774
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.3626096418593079
+  lightness: 0.8333117112051696
+  saturation: 0.4578163984697312
+  rhythmicContrast: 0.5336079536937177
+purpose: []
